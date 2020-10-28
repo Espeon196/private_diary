@@ -1,1 +1,3 @@
 *.pyc
+.idea/
+static/css/one-page-wonder.css
